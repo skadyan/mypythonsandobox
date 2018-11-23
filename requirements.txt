@@ -1,0 +1,7 @@
+SQLAlchemy==1.2.12
+typing==3.6.6
+promise==2.2.1
+graphene_sqlalchemy==2.1.0
+Flask==1.0.2
+Flask-GraphQL==2.0.0
+pyyaml==3.13

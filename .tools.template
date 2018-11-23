@@ -1,0 +1,4 @@
+BASE_PYTHON_HOME=C:\tools\Python37
+PYTHON_HOME=C:\Projects\experimental\venv
+PYTHON=C:\Projects\experimental\venv\Scripts\python.exe
+PIP=C:\Projects\experimental\venv\Scripts\pip.exe
